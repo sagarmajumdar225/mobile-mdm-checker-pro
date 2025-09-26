@@ -6,7 +6,7 @@
 [![Privacy](https://img.shields.io/badge/privacy-100%25%20client--side-green)]()
 [![Demo](https://img.shields.io/badge/demo-live%20on%20GitHub%20Pages-brightgreen)](https://sagarmajumdar225.github.io/mobile-mdm-checker-pro/)
 
-![Mobile MDM Checker Pro Screenshot](https://i.imgur.com/fake-mdm-screenshot.png)
+![Mobile MDM Checker Pro Screenshot](https://github.com/sagarmajumdar225/mobile-mdm-checker-pro/blob/main/screencapture-file-C-Users-sagar-Desktop-mdmcheckerpro-html-2025-09-26-09_26_08.png)
 
 ---
 
